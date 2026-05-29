@@ -42,3 +42,35 @@ print("Split:", text.split())
 
 # Check if substring exists
 print("Does 'GitHub' exist?", "GitHub" in text)
+# updated
+
+# Integer program in Python
+
+# Define integers
+a = 10
+b = 3
+
+# Addition
+print("Addition:", a + b)
+
+# Subtraction
+print("Subtraction:", a - b)
+
+# Multiplication
+print("Multiplication:", a * b)
+
+# Division (float result)
+print("Division:", a / b)
+
+# Floor division (integer result)
+print("Floor Division:", a // b)
+
+# Modulus (remainder)
+print("Modulus:", a % b)
+
+# Exponentiation (power)
+print("Exponentiation:", a ** b)
+
+# Comparison
+print("Is a greater than b?", a > b)
+print("Is a equal to b?", a == b)
